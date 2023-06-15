@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatgptclone-dev-114019-authRole",
+      "UnauthRoleArn": "arn:aws:iam::282890111805:role/amplify-chatgptclone-dev-114019-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::282890111805:role/amplify-chatgptclone-dev-114019-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-chatgptclone-dev-114019-deployment",
+      "UnauthRoleName": "amplify-chatgptclone-dev-114019-unauthRole",
+      "StackName": "amplify-chatgptclone-dev-114019",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:282890111805:stack/amplify-chatgptclone-dev-114019/bd11e470-0b36-11ee-b0bb-064d90bde3db",
+      "AmplifyAppId": "d31bfee1mk0ue1"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d31bfee1mk0ue1",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
